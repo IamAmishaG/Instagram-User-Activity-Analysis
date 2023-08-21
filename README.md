@@ -49,7 +49,11 @@ The database consists of the following tables and columns:
 ## Project Task:
 - Phase 1: Analysis using MySQL 
 
-The project entails a series of tasks that encompass identifying top-performing users, assessing user engagement metrics, optimizing ad campaign timing, and detecting potential bot accounts. These tasks collectively aim to enhance user experiences, enable effective marketing strategies, and ensure a genuine and active user base. Also involves a systematic approach to leveraging data for strategic insights. These tasks range from identifying contest winners based on likes and analyzing user engagement patterns to recognizing the most frequently used hashtags. By addressing both user-centric and business-centric challenges, the project empowers teams to make well-informed decisions and boost the overall success of the platform.
+The project entails a series of tasks that encompass identifying top-performing users, assessing user engagement metrics, optimizing ad campaign timing, and detecting potential bot accounts. A sample Instagram clone database is created entailing the above mentioned tables and a systematic approach is used to leverage that data for strategic insights. These tasks range from identifying contest winners based on likes and analyzing user engagement patterns to recognizing the most frequently used hashtags. By addressing both user-centric and business-centric challenges, the project empowers teams to make well-informed decisions and boost the overall success of the platform.
+
+<kbd>![ig_clone4](https://github.com/IamAmishaG/Instagram-User-Activity-Analysis/assets/132007481/89f39dbb-21a0-4222-aa64-c77cbaae8aef)
+*Head to the sql file in the repository to view this*
+
 
 - Phase 2: Dashboard enhancing the key metrics using PowerBI
 
