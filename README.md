@@ -3,6 +3,8 @@
 ## Description:
 Posing as a data analyst working with Instagram's product team, the project's objective is to derive valuable insights from user interactions and engagement within the Instagram(clone) app. By employing SQL and MySQL Workbench, this project aims to provide data-driven recommendations that can guide the business in its growth strategy. The insights derived from this analysis will not only empower the product team but also serve other departments such as marketing and development in enhancing the overall user experience.
 
+**Domain: Social Media**
+
 **Data Dictonary:**
 The database consists of the following tables and columns:
 
